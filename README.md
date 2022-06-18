@@ -1,14 +1,13 @@
-# checknupes
+# Check Nupes
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a very simple—yet fun to fiddle with—dashboard with all French legislative
+circonscriptions.
+
+You can see it live on [checknupes.signez.fr](https://checknupes.signez.fr/).
 
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
