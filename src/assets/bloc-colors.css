@@ -1,0 +1,54 @@
+
+[data-bloc=Gauche] {
+  --bloc-color: #DA679E;
+}
+[data-bloc=Divers] {
+  --bloc-color: #c5b7d7;
+}
+[data-bloc=Nupes] {
+  --bloc-color: #a1184a;
+}
+[data-bloc="Extrême gauche"] {
+  --bloc-color: #D03232;
+}
+[data-bloc="Régionalistes"] {
+  --bloc-color: #8d8599;
+}
+[data-bloc=Centre] {
+  --bloc-color: #E1B000;
+}
+[data-bloc=Ensemble] {
+  --bloc-color: #FF9F0E;
+}
+[data-bloc="LR-UDI"] {
+  --bloc-color: #0890C5;
+}
+[data-bloc=Droite] {
+  --bloc-color: #0678a4;
+}
+[data-bloc="Extrême droite"] {
+  --bloc-color: #484c53;
+}
+[data-bloc="Reconquête"] {
+  --bloc-color: #464037;
+}
+[data-bloc="Rassemblement national"] {
+  --bloc-color: #373946;
+}
+
+[data-bloc=Gauche] input {
+  --bloc-color: #c15a8c;
+}
+[data-bloc=Divers] input {
+  --bloc-color: #987cbc;
+}
+[data-bloc=Centre] input {
+  --bloc-color: #a38000;
+}
+[data-bloc=Ensemble] input {
+  --bloc-color: #c27603;
+}
+
+.with-bloc-color[data-bloc] {
+  background-color: var(--bloc-color);
+}

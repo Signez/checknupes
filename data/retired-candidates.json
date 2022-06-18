@@ -1,0 +1,38 @@
+{
+  "93_04": {
+    "3": {
+      "retired_date": "2022-06-14",
+      "retired_name": "Azzédine TAÏBI",
+      "retired_reason": "Abandon au vu de l’écart",
+      "retired_link_title": "France Bleu Paris",
+      "retired_link_href": "https://www.francebleu.fr/infos/politique/legislatives-en-seine-saint-denis-azzedine-taibi-se-retire-du-second-tour-et-quitte-le-pcf-1655213331"
+    }
+  },
+  "93_11": {
+    "11": {
+      "retired_date": "2022-06-14",
+      "retired_name": "Virginie DE CARVALHO",
+      "retired_reason": "Abandon au vu de l’écart",
+      "retired_link_title": "France Bleu Paris",
+      "retired_link_href": "https://www.francebleu.fr/infos/politique/legislatives-en-seine-saint-denis-abandon-de-la-candidate-communiste-clementine-autain-seule-au-1655227693"
+    }
+  },
+  "ZA_04": {
+    "5": {
+      "retired_date": "2022-06-14",
+      "retired_name": "Marie-Luce PENCHARD",
+      "retired_reason": "Abandon au vu de l’écart",
+      "retired_link_title": "Guadeloupe La 1ère",
+      "retired_link_href": "https://la1ere.francetvinfo.fr/guadeloupe/legislatives-2022-marie-luce-penchard-ne-participera-pas-au-second-tour-de-la-4eme-circonscription-1293904.html"
+    }
+  },
+  "47_01": {
+    "3": {
+      "retired_date": "2022-06-14",
+      "retired_name": "Maryse COMBRES",
+      "retired_reason": "Barrage républicain",
+      "retired_link_title": "La Dépêche",
+      "retired_link_href": "https://www.ladepeche.fr/2022/06/14/maryse-combres-nupes-se-retire-du-second-tour-sur-agen-nerac-lauzzana-ensemble-sy-attendait-delbosq-rn-crie-au-scandale-10365383.php"
+    }
+  }
+}
